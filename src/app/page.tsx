@@ -12,7 +12,7 @@ export default async function Home() {
         <div>
           <h1 className="text-3xl font-bold">Task Manager</h1>
           <p className="mt-1 text-gray-600">
-            A simple task management web application built for a university project.
+            Hi student, this is a simple task management web application built for a university project.
           </p>
         </div>
 
